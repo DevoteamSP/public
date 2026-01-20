@@ -780,9 +780,13 @@ notes: >
 ---
 
 **Writer**: Laurent Letourmy for Devoteam Snowflake Partner
+
 **Document Version:** 1.0.0
+
 **Publication Date:** January 2026
+
 **Based on:** Atomic Instruction Architecture
+
 **License:** MIT
 
 ---
