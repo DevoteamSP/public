@@ -21,6 +21,20 @@ Feel free to use, comment, share.
 
     ...
 
+- **[Testing Snowflake Intelligence at Scale: A Question-Driven Validation Framework](snowflake-intelligence-testing-framework.md)**
+
+    Building Comprehensive Test Beds for AI Agents and Semantic Views
+
+    ## Abstract
+
+    As Snowflake Intelligence deployments grow from pilot projects to production systems serving hundreds of users, testing becomes the critical bottleneck. How do you validate that agents answer questions correctly? How do you ensure consistent behavior across dozens of semantic views? How do you catch regressions before users do?
+
+    This whitepaper presents a **question-driven testing framework** that enables systematic validation of Snowflake Intelligence agents and semantic views. By structuring test questions as versioned, categorized specifications linked to Critical User Journeys (CUJs), teams can build comprehensive test beds that scale from 50 to 500+ validation scenarios while maintaining quality and traceability.
+
+    **Target Audience:** Data architects, QA engineers, analytics engineers, and teams responsible for Snowflake Intelligence quality assurance.
+
+    ...
+
 ---
 
 **License:** MIT
